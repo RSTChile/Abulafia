@@ -446,7 +446,15 @@
           "dimensions": "N/A",
           "multiples": "N/A (Confirmado en otra sesión)",
           "notes": "Estado: Confirmado"
-        }
+        },
+        {
+          "site_number": 94,
+          "name": "Gigante de Tarapacá",
+          "estimated_date": "Desconocida",
+          "location": "Tarapacá",
+          "country": "Chile",
+          "coordinates_dms": "19°56'56.67\"S 69°38'1.19\"O",
+          "proportions": "Beta (1,2727), Alfa Prima}
       ]
     },
     {
