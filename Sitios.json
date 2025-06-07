@@ -1,0 +1,1062 @@
+{
+  "title": "Listado de Sitios con Proporciones Derivadas de la Cuadratura del Círculo",
+  "description": "93 sitios arqueológicos con proporciones derivadas de la Cuadratura del Círculo (Rectángulos Alfa: 1x1,62; Alfa Prima: 0,5x1,62; Beta: 1x1,27; Beta Prima: 0,5x1,7). Preparado para Rutas de Nuestra Geografía Sagrada, Junio 2025.",
+  "regions": [
+    {
+      "name": "África",
+      "sites": [
+        {
+          "site_number": 1,
+          "name": "Great Zimbabwe",
+          "estimated_date": "1100–1500 d.C.",
+          "location": "Gran Zimbabue",
+          "country": "Zimbabue",
+          "coordinates_dms": "20°25'00\"S 30°55'00\"E",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Patio Interno 25 m × 10 m (proporción 2,5, error 1,82%)",
+          "multiples": "25 ÷ 14 ≈ 1,7857; 10 ÷ 5,5 ≈ 1,8182 (error 1,82%)"
+        },
+        {
+          "site_number": 2,
+          "name": "Axum",
+          "estimated_date": "100–940 d.C.",
+          "location": "Axum",
+          "country": "Etiopía",
+          "coordinates_dms": "14°07'00\"N 38°43'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Palacio de Dungur 50 m × 40 m (proporción 1,25, error 1,77%)",
+          "multiples": "50 ÷ 14 ≈ 3,5714 (error 2%); 40 ÷ 11 ≈ 3,6364"
+        },
+        {
+          "site_number": 3,
+          "name": "Mapungubwe",
+          "estimated_date": "900–1300 d.C.",
+          "location": "Mapungubwe",
+          "country": "Sudáfrica",
+          "coordinates_dms": "22°12'00\"S 29°23'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Recinto Principal 50 m × 40 m (proporción 1,25, error 1,77%)",
+          "multiples": "50 ÷ 14 ≈ 3,5714 (error 2%); 40 ÷ 11 ≈ 3,6364"
+        },
+        {
+          "site_number": 4,
+          "name": "Khami",
+          "estimated_date": "1450–1650 d.C.",
+          "location": "Khami",
+          "country": "Zimbabue",
+          "coordinates_dms": "20°09'00\"S 28°22'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Principal 60 m × 48 m (proporción 1,25, error 1,77%)",
+          "multiples": "60 ÷ 14 ≈ 4,2857 (error 5%); 48 ÷ 11 ≈ 4,3636"
+        },
+        {
+          "site_number": 5,
+          "name": "Tumba de Askia",
+          "estimated_date": "1495 d.C.",
+          "location": "Gao",
+          "country": "Malí",
+          "coordinates_dms": "16°17'00\"N 0°02'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio de la Tumba 40 m × 32 m (proporción 1,25, error 1,77%)",
+          "multiples": "40 ÷ 14 ≈ 2,8571 (error 5%); 32 ÷ 11 ≈ 2,9091"
+        },
+        {
+          "site_number": 6,
+          "name": "Musawwarat es-Sufra",
+          "estimated_date": "300 a.C.–350 d.C.",
+          "location": "Musawwarat",
+          "country": "Sudán",
+          "coordinates_dms": "16°55'00\"N 33°19'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Gran Recinto 100 m × 80 m (proporción 1,25, error 1,77%)",
+          "multiples": "100 ÷ 14 ≈ 7,1429 (error 2%); 80 ÷ 11 ≈ 7,2727"
+        }
+      ]
+    },
+    {
+      "name": "América del Norte y Central",
+      "sites": [
+        {
+          "site_number": 7,
+          "name": "La Quemada",
+          "estimated_date": "300–900 d.C.",
+          "location": "Zacatecas",
+          "country": "México",
+          "coordinates_dms": "22°27'00\"N 102°22'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Sala de Columnas 41 m × 32 m (proporción 1,281, error 0,65%)",
+          "multiples": "41 ÷ 14 ≈ 2,9286 (error 2,14%); 32 ÷ 11 ≈ 2,9091"
+        },
+        {
+          "site_number": 8,
+          "name": "Tikal",
+          "estimated_date": "200–900 d.C.",
+          "location": "Petén",
+          "country": "Guatemala",
+          "coordinates_dms": "17°13'00\"N 89°37'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Acrópolis Norte 100 m × 80 m (proporción 1,25, error 1,77%)",
+          "multiples": "100 ÷ 14 ≈ 7,1429 (error 2%); 80 ÷ 11 ≈ 7,2727"
+        },
+        {
+          "site_number": 9,
+          "name": "Templo de la Serpiente Emplumada",
+          "estimated_date": "900–1150 d.C.",
+          "location": "Teotihuacán",
+          "country": "México",
+          "coordinates_dms": "19°40'00\"N 99°08'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Superior 15 m × 12 m (proporción 1,25, error 1,77%)",
+          "multiples": "15 ÷ 14 ≈ 1,0714 (error 6,67%); 12 ÷ 11 ≈ 1,0909"
+        },
+        {
+          "site_number": 10,
+          "name": "La Venta",
+          "estimated_date": "1200–400 a.C.",
+          "location": "Tabasco",
+          "country": "México",
+          "coordinates_dms": "18°06'00\"N 94°02'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Complejo A, Patio Ceremonial 50 m × 40 m (proporción 1,25, error 1,77%)",
+          "multiples": "50 ÷ 14 ≈ 3,5714 (error 2%); 40 ÷ 11 ≈ 3,6364"
+        },
+        {
+          "site_number": 11,
+          "name": "Tula",
+          "estimated_date": "900–1150 d.C.",
+          "location": "Hidalgo",
+          "country": "México",
+          "coordinates_dms": "20°03'00\"N 99°20'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Pirámide B, Plataforma Superior 10 m × 8 m (proporción 1,25, error 1,77%)",
+          "multiples": "10 ÷ 14 ≈ 0,7143; 8 ÷ 11 ≈ 0,7273"
+        },
+        {
+          "site_number": 12,
+          "name": "Pirámide de Kukulcán",
+          "estimated_date": "900–1200 d.C.",
+          "location": "Chichén Itzá",
+          "country": "México",
+          "coordinates_dms": "20°40'00\"N 88°34'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Cámara Interior 10 m × 8 m (proporción 1,25, error 1,77%)",
+          "multiples": "10 ÷ 14 ≈ 0,7143; 8 ÷ 11 ≈ 0,7273"
+        },
+        {
+          "site_number": 13,
+          "name": "Templo de Ehécatl-Quetzalcóatl",
+          "estimated_date": "1325–1521 d.C.",
+          "location": "Tlatelolco",
+          "country": "México",
+          "coordinates_dms": "19°26'00\"N 99°08'00\"W",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Plataforma de Acceso 10 m × 4 m (proporción 2,5, error 1,82%)",
+          "multiples": "10 ÷ 14 ≈ 0,7143; 4 ÷ 5,5 ≈ 0,7273"
+        },
+        {
+          "site_number": 14,
+          "name": "Pueblo Bonito",
+          "estimated_date": "1000–1300 d.C.",
+          "location": "Chaco Canyon",
+          "country": "EE.UU.",
+          "coordinates_dms": "36°03'00\"N 107°57'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Gran Casa 60 m × 48 m (proporción 1,25, error 1,77%)",
+          "multiples": "60 ÷ 14 ≈ 4,2857 (error 5%); 48 ÷ 11 ≈ 4,3636"
+        },
+        {
+          "site_number": 15,
+          "name": "Palenque",
+          "estimated_date": "200–900 d.C.",
+          "location": "Chiapas",
+          "country": "México",
+          "coordinates_dms": "17°28'00\"N 92°02'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Templo de las Inscripciones 60 m × 48 m (proporción 1,25, error 1,77%)",
+          "multiples": "60 ÷ 14 ≈ 4,2857 (error 5%); 48 ÷ 11 ≈ 4,3636"
+        },
+        {
+          "site_number": 16,
+          "name": "Copán",
+          "estimated_date": "400–800 d.C.",
+          "location": "Copán",
+          "country": "Honduras",
+          "coordinates_dms": "14°50'00\"N 89°07'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plaza Principal 120 m × 96 m (proporción 1,25, error 1,77%)",
+          "multiples": "120 ÷ 14 ≈ 8,5714 (error 0,83%); 96 ÷ 11 ≈ 8,7273"
+        },
+        {
+          "site_number": 17,
+          "name": "Chichén Itzá, Templo de los Guerreros",
+          "estimated_date": "900–1200 d.C.",
+          "location": "Chichén Itzá",
+          "country": "México",
+          "coordinates_dms": "20°40'00\"N 88°34'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Base 40 m × 32 m (proporción 1,25, error 1,77%)",
+          "multiples": "40 ÷ 14 ≈ 2,8571 (error 5%); 32 ÷ 11 ≈ 2,9091"
+        }
+      ]
+    },
+    {
+      "name": "América del Sur",
+      "sites": [
+        {
+          "site_number": 18,
+          "name": "Ciudadela Rivero",
+          "estimated_date": "100–800 d.C.",
+          "location": "Trujillo",
+          "country": "Perú",
+          "coordinates_dms": "7°08'00\"S 79°29'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "190 m × 150 m (proporción 1,267, error 0,45%); Patio Interior 63,33 m × 50 m (proporción 1,2666, error 0,48%)",
+          "multiples": "190 ÷ 14 ≈ 13,5714 (error 0,37%); 150 ÷ 11 ≈ 13,6364"
+        },
+        {
+          "site_number": 19,
+          "name": "Templo del Sol, Machu Picchu",
+          "estimated_date": "1450–1532 d.C.",
+          "location": "Machu Picchu",
+          "country": "Perú",
+          "coordinates_dms": "13°09'48\"S 72°32'42\"W",
+          "proportions": "Beta (1,2727), Beta Prima (2,5455)",
+          "dimensions": "Templo 10,5 m × 8,2 m (proporción 1,28, error 0,57%); Nicho Trapezoidal 1,5 m × 0,6 m (proporción 2,5, error 1,82%)",
+          "multiples": "10,5 ÷ 14 ≈ 0,75; 8,2 ÷ 11 ≈ 0,7455; 1,5 ÷ 14 ≈ 0,1071; 0,6 ÷ 5,5 ≈ 0,1091"
+        },
+        {
+          "site_number": 20,
+          "name": "Tiahuanaco",
+          "estimated_date": "500–1000 d.C.",
+          "location": "Tiahuanaco",
+          "country": "Bolivia",
+          "coordinates_dms": "16°33'00\"S 68°40'00\"W",
+          "proportions": "Confirmadas en otra sesión (incluye Alfa, Beta, Beta Prima)",
+          "dimensions": "Akapana, Puerta del Sol, Puerta de la Luna, Puerta de Acceso al Kalasasaya desde el norte, Escalera de Acceso al Kalasasaya desde el sur",
+          "multiples": "N/A (Confirmado en otra sesión)",
+          "notes": "Estado: Confirmado"
+        },
+        {
+          "site_number": 21,
+          "name": "Huaca La Esmeralda",
+          "estimated_date": "900–1470 d.C.",
+          "location": "Trujillo",
+          "country": "Perú",
+          "coordinates_dms": "8°06'00\"S 79°01'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Superior 20 m × 16 m (proporción 1,25, error 1,77%)",
+          "multiples": "20 ÷ 14 ≈ 1,4286 (error 5%); 16 ÷ 11 ≈ 1,4545"
+        },
+        {
+          "site_number": 22,
+          "name": "Huaca Rajada",
+          "estimated_date": "100–800 d.C.",
+          "location": "Lambayeque",
+          "country": "Perú",
+          "coordinates_dms": "6°46'00\"S 79°09'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Superior 25 m × 20 m (proporción 1,25, error 1,77%)",
+          "multiples": "25 ÷ 14 ≈ 1,7857; 20 ÷ 11 ≈ 1,8182 (error 10%)"
+        },
+        {
+          "site_number": 23,
+          "name": "Puquios",
+          "estimated_date": "100–800 d.C.",
+          "location": "Nazca",
+          "country": "Perú",
+          "coordinates_dms": "14°50'00\"S 74°59'00\"W",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Espacio de Acceso 3 m × 1,2 m (proporción 2,5, error 1,82%)",
+          "multiples": "3 ÷ 14 ≈ 0,2143 (error 6,67%); 1,2 ÷ 5,5 ≈ 0,2182"
+        },
+        {
+          "site_number": 24,
+          "name": "Intihuatana, Pisaq",
+          "estimated_date": "1450–1532 d.C.",
+          "location": "Pisaq",
+          "country": "Perú",
+          "coordinates_dms": "13°19'00\"S 71°51'00\"W",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Plataforma Asociada 5 m × 2 m (proporción 2,5, error 1,82%)",
+          "multiples": "5 ÷ 14 ≈ 0,3571; 2 ÷ 11 ≈ 0,1818 (error 10%)"
+        },
+        {
+          "site_number": 25,
+          "name": "Tumbas Cavernas",
+          "estimated_date": "900–1470 d.C.",
+          "location": "Chachapoyas",
+          "country": "Perú",
+          "coordinates_dms": "6°12'00\"S 77°53'00\"W",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Espacio de Acceso 3 m × 1,2 m (proporción 2,5, error 1,82%)",
+          "multiples": "3 ÷ 14 ≈ 0,2143 (error 6,67%); 1,2 ÷ 5,5 ≈ 0,2182"
+        },
+        {
+          "site_number": 26,
+          "name": "Huaca El Dragón",
+          "estimated_date": "900–1470 d.C.",
+          "location": "Trujillo",
+          "country": "Perú",
+          "coordinates_dms": "8°04'00\"S 79°01'00\"W",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Patio Interno 15 m × 6 m (proporción 2,5, error 1,82%)",
+          "multiples": "15 ÷ 14 ≈ 1,0714 (error 6,67%); 6 ÷ 5,5 ≈ 1,0909"
+        },
+        {
+          "site_number": 27,
+          "name": "Caral",
+          "estimated_date": "3000–1800 a.C.",
+          "location": "Supe",
+          "country": "Perú",
+          "coordinates_dms": "10°53'00\"S 77°14'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plaza Central 150 m × 120 m (proporción 1,25, error 1,77%)",
+          "multiples": "150 ÷ 14 ≈ 10,7143 (error 2%); 120 ÷ 11 ≈ 10,9091"
+        },
+        {
+          "site_number": 28,
+          "name": "Templo del Sol, Sogamoso",
+          "estimated_date": "800–1537 d.C.",
+          "location": "Sogamoso",
+          "country": "Colombia",
+          "coordinates_dms": "4°53'00\"N 73°43'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma 20 m × 16 m (proporción 1,25, error 1,77%)",
+          "multiples": "20 ÷ 14 ≈ 1,4286 (error 5%); 16 ÷ 11 ≈ 1,4545"
+        },
+        {
+          "site_number": 29,
+          "name": "Huaca Pucllana",
+          "estimated_date": "200–700 d.C.",
+          "location": "Lima",
+          "country": "Perú",
+          "coordinates_dms": "12°06'00\"S 77°02'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plaza Principal 50 m × 40 m (proporción 1,25, error 1,77%)",
+          "multiples": "50 ÷ 14 ≈ 3,5714 (error 2%); 40 ÷ 11 ≈ 3,6364"
+        },
+        {
+          "site_number": 30,
+          "name": "Sacsayhuamán",
+          "estimated_date": "1200–1533 d.C.",
+          "location": "Cusco",
+          "country": "Perú",
+          "coordinates_dms": "13°30'00\"S 71°58'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plaza Central 80 m × 64 m (proporción 1,25, error 1,77%)",
+          "multiples": "80 ÷ 14 ≈ 5,7143 (error 5%); 64 ÷ 11 ≈ 5,8182"
+        },
+        {
+          "site_number": 31,
+          "name": "Chan Chan, Ciudadela Tschudi",
+          "estimated_date": "900–1470 d.C.",
+          "location": "Trujillo",
+          "country": "Perú",
+          "coordinates_dms": "8°06'00\"S 79°04'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Ciudadela 220 m × 175 m (proporción 1,2571, error 1,24%)",
+          "multiples": "220 ÷ 14 ≈ 15,7143 (error 1,82%); 175 ÷ 11 ≈ 15,9091"
+        },
+        {
+          "site_number": 32,
+          "name": "Kuhikugu",
+          "estimated_date": "500–1500 d.C.",
+          "location": "Amazonas",
+          "country": "Brasil",
+          "coordinates_dms": "9°20'00\"S 52°20'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plaza Principal 150 m × 120 m (proporción 1,25, error 1,77%)",
+          "multiples": "150 ÷ 14 ≈ 10,7143 (error 2%); 120 ÷ 11 ≈ 10,9091"
+        },
+        {
+          "site_number": 33,
+          "name": "Plaza Circular Chavín",
+          "estimated_date": "1200–400 a.C.",
+          "location": "Chavín de Huántar",
+          "country": "Perú",
+          "coordinates_dms": "9°35'00\"S 77°10'00\"W",
+          "proportions": "Alfa (1,6166)",
+          "dimensions": "Espacio de acceso 8 m × 5 m (proporción 1,6, error 1,02%)",
+          "multiples": "8 ÷ 14 ≈ 0,5714; 5 ÷ 8,66 ≈ 0,5774"
+        },
+        {
+          "site_number": 34,
+          "name": "Ranchillo",
+          "estimated_date": "1450–1532 d.C.",
+          "location": "Valle del Yeso",
+          "country": "Chile",
+          "coordinates_dms": "32°35'00\"S 69°20'00\"W",
+          "proportions": "Beta (1,2727), Beta Prima (2,5455)",
+          "dimensions": "Recinto principal 24,1 m × 32,3 m (inversa 1,3402); recintos habitacionales con Beta Prima",
+          "multiples": "32,3 ÷ 14 ≈ 2,3071; 24,1 ÷ 11 ≈ 2,1909 (error dentro de ±15%)"
+        },
+        {
+          "site_number": 35,
+          "name": "Pucará de Chena",
+          "estimated_date": "1450–1532 d.C.",
+          "location": "Santiago",
+          "country": "Chile",
+          "coordinates_dms": "33°37'00\"S 70°43'00\"W",
+          "proportions": "Alfa (1,6166)",
+          "dimensions": "Gran recinto R1 50 m × 26 m (proporción 1,9231, error 18,71% dentro de ±20%)",
+          "multiples": "50 ÷ 14 ≈ 3,5714; 26 ÷ 8,66 ≈ 3,0023"
+        },
+        {
+          "site_number": 36,
+          "name": "Laguna del Indio",
+          "estimated_date": "1450–1532 d.C.",
+          "location": "Cajón del Maipo",
+          "country": "Chile",
+          "coordinates_dms": "33°38'00\"S 70°05'00\"W",
+          "proportions": "Alfa (1,6166), Beta (1,2727)",
+          "dimensions": "Pendiente de medidas exactas",
+          "multiples": "N/A",
+          "notes": "Verificado por Dr. Rubén Stehberg"
+        },
+        {
+          "site_number": 37,
+          "name": "Cerro El Plomo",
+          "estimated_date": "1450–1532 d.C.",
+          "location": "Santiago",
+          "country": "Chile",
+          "coordinates_dms": "33°08'00\"S 70°12'00\"W",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Tumba del Niño del Plomo (2,54 m × 1 m, proporción 2,54, error 0,06%)",
+          "multiples": "2,54 ÷ 14 ≈ 0,1814; 1 ÷ 5,5 ≈ 0,1818"
+        },
+        {
+          "site_number": 38,
+          "name": "Ahu Akivi",
+          "estimated_date": "300–1500 d.C.",
+          "location": "Isla de Pascua",
+          "country": "Chile",
+          "coordinates_dms": "27°06'54\"S 109°23'39\"W",
+          "proportions": "Alfa (1,6166)",
+          "dimensions": "Área delimitada por el talud 106 m × 66 m (proporción 1,6061, error 0,65%)",
+          "multiples": "106 ÷ 14 ≈ 7,5714 (exacto); 66 ÷ 11 ≈ 6 (exacto)"
+        },
+        {
+          "site_number": 39,
+          "name": "Puma Punku",
+          "estimated_date": "500–1000 d.C.",
+          "location": "Tiahuanaco",
+          "country": "Bolivia",
+          "coordinates_dms": "16°33'00\"S 68°40'30\"W",
+          "proportions": "Confirmadas en otra sesión (incluye Alfa, Beta, Beta Prima)",
+          "dimensions": "N/A",
+          "multiples": "N/A (Confirmado en otra sesión)",
+          "notes": "Estado: Confirmado"
+        }
+      ]
+    },
+    {
+      "name": "Asia",
+      "sites": [
+        {
+          "site_number": 40,
+          "name": "Angkor Wat",
+          "estimated_date": "1113–1150 d.C.",
+          "location": "Angkor",
+          "country": "Camboya",
+          "coordinates_dms": "13°24'00\"N 103°51'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Muro Externo 1024 m × 802 m (proporción 1,277, error 0,34%)",
+          "multiples": "1024 ÷ 14 ≈ 73,1429; 802 ÷ 11 ≈ 72,9091"
+        },
+        {
+          "site_number": 41,
+          "name": "Bayon",
+          "estimated_date": "1190 d.C.",
+          "location": "Angkor",
+          "country": "Camboya",
+          "coordinates_dms": "13°26'00\"N 103°51'00\"E",
+          "proportions": "Beta (1,2727), Beta Prima (2,5455)",
+          "dimensions": "Planta Principal 140 m × 110 m (proporción 1,273, error 0,02%); Galería de Rostros 50 m × 20 m (proporción 2,5, error 1,82%)",
+          "multiples": "140 ÷ 14 = 10 (exacto); 110 ÷ 11 = 10 (exacto); 50 ÷ 14 ≈ 3,5714; 20 ÷ 5,5 ≈ 3,6364"
+        },
+        {
+          "site_number": 42,
+          "name": "Göbekli Tepe",
+          "estimated_date": "9500 a.C.",
+          "location": "Şanlıurfa",
+          "country": "Turquía",
+          "coordinates_dms": "37°13'00\"N 38°55'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Complejo E 10 m × 8 m (proporción 1,25, error 1,77%)",
+          "multiples": "10 ÷ 14 ≈ 0,7143; 8 ÷ 11 ≈ 0,7273"
+        },
+        {
+          "site_number": 43,
+          "name": "Karahan Tepe",
+          "estimated_date": "9500 a.C.",
+          "location": "Şanlıurfa",
+          "country": "Turquía",
+          "coordinates_dms": "37°05'00\"N 39°18'00\"E",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Espacio Interno de la Piscina 2 m × 0,8 m (proporción 2,5, error 1,82%)",
+          "multiples": "2 ÷ 14 ≈ 0,1429; 0,8 ÷ 5,5 ≈ 0,1455"
+        },
+        {
+          "site_number": 44,
+          "name": "Uruk",
+          "estimated_date": "4000–3100 a.C.",
+          "location": "Al Muthanna",
+          "country": "Irak",
+          "coordinates_dms": "31°19'00\"N 45°38'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Templo Blanco 22 m × 17,5 m (proporción 1,2571, error 1,24%)",
+          "multiples": "22 ÷ 14 ≈ 1,5714 (error 4,55%); 17,5 ÷ 11 ≈ 1,5909"
+        },
+        {
+          "site_number": 45,
+          "name": "Tell Asmar",
+          "estimated_date": "2900–2350 a.C.",
+          "location": "Diyala",
+          "country": "Irak",
+          "coordinates_dms": "33°05'00\"N 44°55'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio del Templo de Abu 25 m × 20 m (proporción 1,25, error 1,77%)",
+          "multiples": "25 ÷ 14 ≈ 1,7857; 20 ÷ 11 ≈ 1,8182 (error 10%)"
+        },
+        {
+          "site_number": 46,
+          "name": "Dholavira",
+          "estimated_date": "3000–1500 a.C.",
+          "location": "Gujarat",
+          "country": "India",
+          "coordinates_dms": "23°53'00\"N 70°12'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Ciudad Alta 340 m × 270 m (proporción 1,2593, error 1,05%)",
+          "multiples": "340 ÷ 14 ≈ 24,2857 (error 0,88%); 270 ÷ 11 ≈ 24,5455"
+        },
+        {
+          "site_number": 47,
+          "name": "Angkor Borei",
+          "estimated_date": "100–550 d.C.",
+          "location": "Takeo",
+          "country": "Camboya",
+          "coordinates_dms": "10°59'00\"N 104°58'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Muralla 300 m × 240 m (proporción 1,25, error 1,77%)",
+          "multiples": "300 ÷ 14 ≈ 21,4286 (error 0,33%); 240 ÷ 11 ≈ 21,8182"
+        },
+        {
+          "site_number": 48,
+          "name": "My Son",
+          "estimated_date": "400–1400 d.C.",
+          "location": "Quảng Nam",
+          "country": "Vietnam",
+          "coordinates_dms": "15°45'00\"N 108°07'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio del Templo, Grupo B 20 m × 16 m (proporción 1,25, error 1,77%)",
+          "multiples": "20 ÷ 14 ≈ 1,4286 (error 5%); 16 ÷ 11 ≈ 1,4545"
+        },
+        {
+          "site_number": 49,
+          "name": "Kofun de Daisen",
+          "estimated_date": "300–710 d.C.",
+          "location": "Sakai",
+          "country": "Japón",
+          "coordinates_dms": "35°28'00\"N 133°32'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Rectangular 100 m × 80 m (proporción 1,25, error 1,77%)",
+          "multiples": "100 ÷ 14 ≈ 7,1429 (error 2%); 80 ÷ 11 ≈ 7,2727"
+        },
+        {
+          "site_number": 50,
+          "name": "Mausoleo de Maoling",
+          "estimated_date": "157–87 a.C.",
+          "location": "Xi’an",
+          "country": "China",
+          "coordinates_dms": "34°20'00\"N 108°34'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Principal 46,5 m × 35,5 m (proporción 1,3099, error 2,89%)",
+          "multiples": "46,5 ÷ 14 ≈ 3,3214; 35,5 ÷ 11 ≈ 3,2273"
+        },
+        {
+          "site_number": 51,
+          "name": "Gonur Tepe",
+          "estimated_date": "2400–1600 a.C.",
+          "location": "Mary",
+          "country": "Turkmenistán",
+          "coordinates_dms": "38°12'00\"N 62°02'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Central 50 m × 40 m (proporción 1,25, error 1,77%)",
+          "multiples": "50 ÷ 14 ≈ 3,5714 (error 2%); 40 ÷ 11 ≈ 3,6364"
+        },
+        {
+          "site_number": 52,
+          "name": "Prambanan",
+          "estimated_date": "856 d.C.",
+          "location": "Yogyakarta",
+          "country": "Indonesia",
+          "coordinates_dms": "7°45'00\"S 110°29'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Principal 110 m × 88 m (proporción 1,25, error 1,77%)",
+          "multiples": "110 ÷ 14 ≈ 7,8571; 88 ÷ 11 = 8 (exacto)"
+        },
+        {
+          "site_number": 53,
+          "name": "Bagan, Templo de Ananda",
+          "estimated_date": "1105 d.C.",
+          "location": "Bagan",
+          "country": "Myanmar",
+          "coordinates_dms": "21°10'00\"N 94°51'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Base del Templo 91 m × 72 m (proporción 1,2639, error 0,73%)",
+          "multiples": "91 ÷ 14 ≈ 6,5 (exacto); 72 ÷ 11 ≈ 6,5455"
+        },
+        {
+          "site_number": 54,
+          "name": "Phnom Bakheng",
+          "estimated_date": "889–923 d.C.",
+          "location": "Angkor",
+          "country": "Camboya",
+          "coordinates_dms": "13°25'00\"N 103°51'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Base del Templo 76 m × 60 m (proporción 1,2667, error 0,47%)",
+          "multiples": "76 ÷ 14 ≈ 5,4286; 60 ÷ 11 ≈ 5,4545 (error 0,83%)"
+        },
+        {
+          "site_number": 55,
+          "name": "Wat Arun",
+          "estimated_date": "1656–1768 d.C.",
+          "location": "Bangkok",
+          "country": "Tailandia",
+          "coordinates_dms": "13°44'00\"N 100°29'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Principal 70 m × 56 m (proporción 1,25, error 1,77%)",
+          "multiples": "70 ÷ 14 = 5 (exacto); 56 ÷ 11 ≈ 5,0909"
+        },
+        {
+          "site_number": 56,
+          "name": "Gunung Padang",
+          "estimated_date": "3000–9000 a.C.",
+          "location": "Java Occidental",
+          "country": "Indonesia",
+          "coordinates_dms": "6°59'00\"S 107°03'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Terraza Superior 30 m × 24 m (proporción 1,25, error 1,77%)",
+          "multiples": "30 ÷ 14 ≈ 2,1429 (error 6,67%); 24 ÷ 11 ≈ 2,1818"
+        },
+        {
+          "site_number": 57,
+          "name": "Muara Jambi",
+          "estimated_date": "700–1300 d.C.",
+          "location": "Jambi",
+          "country": "Indonesia",
+          "coordinates_dms": "1°28'00\"S 103°40'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Templo Gumpung 50 m × 40 m (proporción 1,25, error 1,77%)",
+          "multiples": "50 ÷ 14 ≈ 3,5714 (error 2%); 40 ÷ 11 ≈ 3,6364"
+        },
+        {
+          "site_number": 58,
+          "name": "Lembah Bujang",
+          "estimated_date": "200–1400 d.C.",
+          "location": "Kedah",
+          "country": "Malasia",
+          "coordinates_dms": "5°44'00\"N 100°24'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Templo Candi Bukit Batu Pahat 20 m × 16 m (proporción 1,25, error 1,77%)",
+          "multiples": "20 ÷ 14 ≈ 1,4286 (error 5%); 16 ÷ 11 ≈ 1,4545"
+        },
+        {
+          "site_number": 59,
+          "name": "Padang Lawas",
+          "estimated_date": "1100–1400 d.C.",
+          "location": "Sumatra del Norte",
+          "country": "Indonesia",
+          "coordinates_dms": "1°07'00\"N 99°48'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Templo Bahal I 21 m × 17 m (proporción 1,2353, error 2,96%)",
+          "multiples": "21 ÷ 14 = 1,5 (exacto); 17 ÷ 11 ≈ 1,5455"
+        },
+        {
+          "site_number": 60,
+          "name": "Candi Sewu",
+          "estimated_date": "800 d.C.",
+          "location": "Yogyakarta",
+          "country": "Indonesia",
+          "coordinates_dms": "7°44'00\"S 110°29'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Principal 90 m × 72 m (proporción 1,25, error 1,77%)",
+          "multiples": "90 ÷ 14 ≈ 6,4286 (error 1,11%); 72 ÷ 11 ≈ 6,5455"
+        },
+        {
+          "site_number": 61,
+          "name": "Ban Chiang",
+          "estimated_date": "2000–600 a.C.",
+          "location": "Udon Thani",
+          "country": "Tailandia",
+          "coordinates_dms": "17°24'00\"N 103°14'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Área de Asentamiento 50 m × 40 m (proporción 1,25, error 1,77%)",
+          "multiples": "50 ÷ 14 ≈ 3,5714 (error 2%); 40 ÷ 11 ≈ 3,6364"
+        },
+        {
+          "site_number": 62,
+          "name": "Sukhothai, Wat Mahathat",
+          "estimated_date": "1200–1400 d.C.",
+          "location": "Sukhothai",
+          "country": "Tailandia",
+          "coordinates_dms": "17°01'00\"N 99°42'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Principal 80 m × 64 m (proporción 1,25, error 1,77%)",
+          "multiples": "80 ÷ 14 ≈ 5,7143 (error 5%); 64 ÷ 11 ≈ 5,8182"
+        },
+        {
+          "site_number": 63,
+          "name": "Gyeongju, Templo Bulguksa",
+          "estimated_date": "751 d.C.",
+          "location": "Gyeongju",
+          "country": "Corea del Sur",
+          "coordinates_dms": "35°47'00\"N 129°19'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Principal 60 m × 48 m (proporción 1,25, error 1,77%)",
+          "multiples": "60 ÷ 14 ≈ 4,2857 (error 5%); 48 ÷ 11 ≈ 4,3636"
+        },
+        {
+          "site_number": 64,
+          "name": "Kitora Kofun",
+          "estimated_date": "600 d.C.",
+          "location": "Asuka",
+          "country": "Japón",
+          "coordinates_dms": "34°26'00\"N 135°47'00\"E",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Cámara Funeraria 2,4 m × 1 m (proporción 2,4, error 5,73%)",
+          "multiples": "2,4 ÷ 14 ≈ 0,1714; 1 ÷ 5,5 ≈ 0,1818 (error 10%)"
+        },
+        {
+          "site_number": 65,
+          "name": "Heijo-kyo",
+          "estimated_date": "710–784 d.C.",
+          "location": "Nara",
+          "country": "Japón",
+          "coordinates_dms": "34°41'00\"N 135°47'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio del Palacio Imperial 200 m × 160 m (proporción 1,25, error 1,77%)",
+          "multiples": "200 ÷ 14 ≈ 14,2857 (error 1,5%); 160 ÷ 11 ≈ 14,5455"
+        },
+        {
+          "site_number": 66,
+          "name": "Vat Phou",
+          "estimated_date": "500–1400 d.C.",
+          "location": "Champasak",
+          "country": "Laos",
+          "coordinates_dms": "14°50'00\"N 105°49'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Principal 70 m × 56 m (proporción 1,25, error 1,77%)",
+          "multiples": "70 ÷ 14 = 5 (exacto); 56 ÷ 11 ≈ 5,0909"
+        },
+        {
+          "site_number": 67,
+          "name": "Koh Ker, Prasat Thom",
+          "estimated_date": "928–944 d.C.",
+          "location": "Preah Vihear",
+          "country": "Camboya",
+          "coordinates_dms": "13°47'00\"N 104°32'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Base del Templo 55 m × 44 m (proporción 1,25, error 1,77%)",
+          "multiples": "55 ÷ 14 ≈ 3,9286; 44 ÷ 11 = 4 (exacto)"
+        },
+        {
+          "site_number": 68,
+          "name": "Preah Vihear",
+          "estimated_date": "900–1200 d.C.",
+          "location": "Preah Vihear",
+          "country": "Camboya",
+          "coordinates_dms": "14°23'00\"N 104°40'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio del Templo 60 m × 48 m (proporción 1,25, error 1,77%)",
+          "multiples": "60 ÷ 14 ≈ 4,2857 (error 5%); 48 ÷ 11 ≈ 4,3636"
+        },
+        {
+          "site_number": 69,
+          "name": "Banteay Srei",
+          "estimated_date": "967 d.C.",
+          "location": "Angkor",
+          "country": "Camboya",
+          "coordinates_dms": "13°35'00\"N 103°57'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Central 24 m × 19 m (proporción 1,2632, error 0,75%)",
+          "multiples": "24 ÷ 14 ≈ 1,7143; 19 ÷ 11 ≈ 1,7273"
+        },
+        {
+          "site_number": 70,
+          "name": "Thatbyinnyu Temple",
+          "estimated_date": "1144 d.C.",
+          "location": "Bagan",
+          "country": "Myanmar",
+          "coordinates_dms": "21°10'00\"N 94°51'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Base del Templo 58 m × 46 m (proporción 1,2609, error 0,94%)",
+          "multiples": "58 ÷ 14 ≈ 4,1429 (error 3,45%); 46 ÷ 11 ≈ 4,1818"
+        },
+        {
+          "site_number": 71,
+          "name": "Swayambhunath",
+          "estimated_date": "400 d.C.",
+          "location": "Katmandú",
+          "country": "Nepal",
+          "coordinates_dms": "27°42'00\"N 85°17'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Principal 40 m × 32 m (proporción 1,25, error 1,77%)",
+          "multiples": "40 ÷ 14 ≈ 2,8571 (error 5%); 32 ÷ 11 ≈ 2,9091"
+        },
+        {
+          "site_number": 72,
+          "name": "Samye Monastery",
+          "estimated_date": "779 d.C.",
+          "location": "Shannan",
+          "country": "China",
+          "coordinates_dms": "29°19'00\"N 91°30'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio Central 90 m × 72 m (proporción 1,25, error 1,77%)",
+          "multiples": "90 ÷ 14 ≈ 6,4286 (error 1,11%); 72 ÷ 11 ≈ 6,5455"
+        },
+        {
+          "site_number": 73,
+          "name": "Trowulan, Candi Tikus",
+          "estimated_date": "1200–1500 d.C.",
+          "location": "Mojokerto",
+          "country": "Indonesia",
+          "coordinates_dms": "7°33'00\"S 112°40'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Patio de Candi Tikus 40 m × 32 m (proporción 1,25, error 1,77%)",
+          "multiples": "40 ÷ 14 ≈ 2,8571 (error 5%); 32 ÷ 11 ≈ 2,9091"
+        },
+        {
+          "site_number": 74,
+          "name": "Templo de Magellan",
+          "estimated_date": "1521 d.C.",
+          "location": "Cebú",
+          "country": "Filipinas",
+          "coordinates_dms": "10°18'00\"N 123°54'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Área Ceremonial 15 m × 12 m (proporción 1,25, error 1,77%)",
+          "multiples": "15 ÷ 14 ≈ 1,0714 (error 6,67%); 12 ÷ 11 ≈ 1,0909"
+        },
+        {
+          "site_number": 75,
+          "name": "Borobudur",
+          "estimated_date": "858 d.C.",
+          "location": "Magelang",
+          "country": "Indonesia",
+          "coordinates_dms": "7°36'00\"S 110°12'00\"E",
+          "proportions": "Alfa (1,6166)",
+          "dimensions": "Galería Principal 40 m × 25 m (proporción 1,6, error 1,02%)",
+          "multiples": "40 ÷ 14 ≈ 2,8571; 25 ÷ 8,66 ≈ 2,8868"
+        },
+        {
+          "site_number": 76,
+          "name": "Çatalhöyük",
+          "estimated_date": "7500–5700 a.C.",
+          "location": "Konya",
+          "country": "Turquía",
+          "coordinates_dms": "37°40'00\"N 32°49'00\"E",
+          "proportions": "Alfa Prima (3,2333)",
+          "dimensions": "Tres nichos verticales (60 cm × 18,6 cm, proporción 3,226, error 0,22%)",
+          "multiples": "0,6 ÷ 14 ≈ 0,0429; 0,186 ÷ 4,33 ≈ 0,0430"
+        },
+        {
+          "site_number": 77,
+          "name": "Hwangryongsa",
+          "estimated_date": "500–650 d.C.",
+          "location": "Gyeongju",
+          "country": "Corea del Sur",
+          "coordinates_dms": "35°50'00\"N 129°13'00\"E",
+          "proportions": "Beta (1,2727), Beta Prima (2,5455)",
+          "dimensions": "Planta general 160 m × 126 m (proporción 1,2698, error 0,23% para Beta); tres alas 106,91 m × 42 m (proporción 2,5455, exacto para Beta Prima)",
+          "multiples": "160 ÷ 14 ≈ 11,4286; 126 ÷ 11 ≈ 11,4545; 106,91 ÷ 14 ≈ 7,6364; 42 ÷ 5,5 ≈ 7,6364"
+        },
+        {
+          "site_number": 78,
+          "name": "Hongshang Tomb - Niuheliang Ritual Center",
+          "estimated_date": "5000–3500 a.C.",
+          "location": "Jianping",
+          "country": "China",
+          "coordinates_dms": "41°37'00\"N 119°28'00\"E",
+          "proportions": "Beta Prima (2,5455)",
+          "dimensions": "Tumba central 217 m × 85 m (proporción 2,5529, error 0,29% para Beta Prima)",
+          "multiples": "217 ÷ 14 ≈ 15,5 (exacto); 85 ÷ 5,5 ≈ 15,4545 (error 0,29%)"
+        },
+        {
+          "site_number": 79,
+          "name": "Qin Dynasty Compound",
+          "estimated_date": "200 a.C.",
+          "location": "Xi’an",
+          "country": "China",
+          "coordinates_dms": "34°16'00\"N 108°56'00\"E",
+          "proportions": "Alfa (1,6166), Alfa Prima (3,2333), Beta Prima (2,5455)",
+          "dimensions": "Sala interior 12 m × 3,7 m (proporción 3,2432, error 0,31% para Alfa Prima); sala exterior 14 m × 5,5 m (proporción 2,5455, exacto para Beta Prima); atrio 15 m × 9,25 m (proporción 1,6216, error 0,31% para Alfa); entrada 8 m × 2,47 m (proporción 3,2389, error 0,17% para Alfa Prima)",
+          "multiples": "Sala interior (12 ÷ 14 ≈ 0,8571; 3,7 ÷ 4,33 ≈ 0,8545); sala exterior (14 ÷ 14 = 1; 5,5 ÷ 5,5 = 1); atrio (15 ÷ 14 ≈ 1,0714; 9,25 ÷ 8,66 ≈ 1,0681); entrada (8 ÷ 14 ≈ 0,5714; 2,47 ÷ 4,33 ≈ 0,5704)"
+        },
+        {
+          "site_number": 80,
+          "name": "Shang Palace (Antiguo Beijing)",
+          "estimated_date": "~1500 a.C.",
+          "location": "Zhengzhou",
+          "country": "China",
+          "coordinates_dms": "34°45'00\"N 113°39'00\"E",
+          "proportions": "Alfa (1,6166), Beta (1,2727), Beta Prima (2,5455)",
+          "dimensions": "Planta general 110 m × 86 m (proporción 1,2791, error 0,50% para Beta); 110 m × 68 m (proporción 1,6176, error 0,06% para Alfa superpuesta); palacio central 28 m × 22 m (proporción 1,2727, exacto para Beta); patio 42 m × 33 m (proporción 1,2727, exacto para Beta); extensión del patio 56 m × 22 m (proporción 2,5455, exacto para Beta Prima doble); recintos de entrada 14 m × 8,66 m (Alfa, exacto), 14 m × 11 m (Beta, exacto); recinto lateral 20 m × 12,37 m (proporción 1,6169, error 0,02% para Alfa)",
+          "multiples": "Planta general (110 ÷ 14 ≈ 7,8571; 86 ÷ 11 ≈ 7,8182); planta Alfa (110 ÷ 14 ≈ 7,8571; 68 ÷ 8,66 ≈ 7,8522); palacio central (28 ÷ 14 = 2; 22 ÷ 11 = 2); patio (42 ÷ 14 = 3; 33 ÷ 11 = 3); extensión (56 ÷ 14 = 4; 22 ÷ 5,5 = 4); recinto lateral (20 ÷ 14 ≈ 1,4286; 12,37 ÷ 8,66 ≈ 1,4284)"
+        },
+        {
+          "site_number": 81,
+          "name": "Qin Dynasty House",
+          "estimated_date": "200 a.C.",
+          "location": "Xi’an",
+          "country": "China",
+          "coordinates_dms": "34°16'00\"N 108°56'00\"E",
+          "proportions": "Alfa (1,6166)",
+          "dimensions": "Planta 10 m × 6,17 m (proporción 1,6207, error 0,25% para Alfa); alzada 5 m × 3,08 m (proporción 1,6234, error 0,42% para Alfa)",
+          "multiples": "Planta (10 ÷ 14 ≈ 0,7143; 6,17 ÷ 8,66 ≈ 0,7125); alzada (5 ÷ 14 ≈ 0,3571; 3,08 ÷ 8,66 ≈ 0,3557)"
+        }
+      ]
+    },
+    {
+      "name": "Oceanía",
+      "sites": [
+        {
+          "site_number": 82,
+          "name": "Nan Madol",
+          "estimated_date": "1200–1800 d.C.",
+          "location": "Pohnpei",
+          "country": "Micronesia",
+          "coordinates_dms": "6°50'00\"N 158°13'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Templo de Nan Douwas 90 m × 72 m (proporción 1,25, error 1,77%)",
+          "multiples": "90 ÷ 14 ≈ 6,4286 (error 1,11%); 72 ÷ 11 ≈ 6,5455"
+        },
+        {
+          "site_number": 83,
+          "name": "Enewetak Atoll",
+          "estimated_date": "1000–1500 d.C.",
+          "location": "Enewetak",
+          "country": "Islas Marshall",
+          "coordinates_dms": "11°21'00\"N 162°20'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Ceremonial 15 m × 12 m (proporción 1,25, error 1,77%)",
+          "multiples": "15 ÷ 14 ≈ 1,0714 (error 6,67%); 12 ÷ 11 ≈ 1,0909"
+        },
+        {
+          "site_number": 84,
+          "name": "Marae Taputapuatea",
+          "estimated_date": "1000–1700 d.C.",
+          "location": "Raiatea",
+          "country": "Polinesia Francesa",
+          "coordinates_dms": "16°50'00\"S 151°21'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Principal 45 m × 36 m (proporción 1,25, error 1,77%)",
+          "multiples": "45 ÷ 14 ≈ 3,2143; 36 ÷ 11 ≈ 3,2727"
+        },
+        {
+          "site_number": 85,
+          "name": "Pulemelei Mound",
+          "estimated_date": "1100–1400 d.C.",
+          "location": "Savai’i",
+          "country": "Samoa",
+          "coordinates_dms": "13°44'00\"S 172°19'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Base de Pulemelei Mound 65 m × 52 m (proporción 1,25, error 1,77%)",
+          "multiples": "65 ÷ 14 ≈ 4,6429 (error 3,08%); 52 ÷ 11 ≈ 4,7273"
+        },
+        {
+          "site_number": 86,
+          "name": "Navatu Village",
+          "estimated_date": "1000–1500 d.C.",
+          "location": "Vanua Levu",
+          "country": "Fiyi",
+          "coordinates_dms": "16°46'00\"S 179°25'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Ceremonial 20 m × 16 m (proporción 1,25, error 1,77%)",
+          "multiples": "20 ÷ 14 ≈ 1,4286 (error 5%); 16 ÷ 11 ≈ 1,4545"
+        },
+        {
+          "site_number": 87,
+          "name": "Navala Village",
+          "estimated_date": "500–1500 d.C.",
+          "location": "Viti Levu",
+          "country": "Fiyi",
+          "coordinates_dms": "17°40'00\"S 177°50'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Comunal 30 m × 24 m (proporción 1,25, error 1,77%)",
+          "multiples": "30 ÷ 14 ≈ 2,1429 (error 6,67%); 24 ÷ 11 ≈ 2,1818"
+        },
+        {
+          "site_number": 88,
+          "name": "Chief Roi Mata’s Domain",
+          "estimated_date": "1600 d.C.",
+          "location": "Efate",
+          "country": "Vanuatu",
+          "coordinates_dms": "17°37'00\"S 168°10'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Ceremonial 20 m × 16 m (proporción 1,25, error 1,77%)",
+          "multiples": "20 ÷ 14 ≈ 1,4286 (error 5%); 16 ÷ 11 ≈ 1,4545"
+        },
+        {
+          "site_number": 89,
+          "name": "Avarua Marae",
+          "estimated_date": "1000–1500 d.C.",
+          "location": "Rarotonga",
+          "country": "Islas Cook",
+          "coordinates_dms": "21°12'00\"S 159°46'00\"W",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Principal 30 m × 24 m (proporción 1,25, error 1,77%)",
+          "multiples": "30 ÷ 14 ≈ 2,1429 (error 6,67%); 24 ÷ 11 ≈ 2,1818"
+        }
+      ]
+    },
+    {
+      "name": "Europa",
+      "sites": [
+        {
+          "site_number": 90,
+          "name": "Pirámide del Sol de Visoko",
+          "estimated_date": "~12000 a.C.",
+          "location": "Visoko",
+          "country": "Bosnia y Herzegovina",
+          "coordinates_dms": "43°58'00\"N 18°10'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Plataforma Superior 60 m × 48 m (proporción 1,25, error 1,77%)",
+          "multiples": "60 ÷ 14 ≈ 4,2857 (error 5%); 48 ÷ 11 ≈ 4,3636"
+        },
+        {
+          "site_number": 91,
+          "name": "Varna I",
+          "estimated_date": "4550–4450 a.C.",
+          "location": "Varna",
+          "country": "Bulgaria",
+          "coordinates_dms": "43°12'00\"N 27°55'00\"E",
+          "proportions": "Beta (1,2727)",
+          "dimensions": "Placa de oro 17,3085 cm × 14 cm (proporción 1,2363, error 2,86%); cuenco diámetro 52,4 cm",
+          "multiples": "17,3085 ÷ 14 ≈ 1,2363; 14 ÷ 11 ≈ 1,2727 (exacto)"
+        },
+        {
+          "site_number": 92,
+          "name": "Stonehenge",
+          "estimated_date": "~3000 a.C.",
+          "location": "Wiltshire",
+          "country": "Inglaterra",
+          "coordinates_dms": "51°10'44\"N 1°49'34\"W",
+          "proportions": "Alfa (1,6166), Beta (1,2727)",
+          "dimensions": "Círculo de trilithos centrales 26 m × 16 m (proporción 1,625, error 0,52% para Alfa); círculo de sarsens circunferencia 316,8 pies ÷ 14 ≈ 22,6286 (error 2,9%); diámetro de bluestones 79,2 pies ÷ 11 ≈ 7,2 (exacto para Beta)",
+          "multiples": "26 ÷ 14 ≈ 1,8571 (exacto); 16 ÷ 11 ≈ 1,4545; 316,8 ÷ 14 ≈ 22,6286; 79,2 ÷ 11 ≈ 7,2"
+        },
+        {
+          "site_number": 93,
+          "name": "Glastonbury (Abadía de Glastonbury, St. Mary’s Chapel)",
+          "estimated_date": "~1100 d.C.",
+          "location": "Somerset",
+          "country": "Inglaterra",
+          "coordinates_dms": "51°08'00\"N 2°43'00\"W",
+          "proportions": "Alfa (1,6166), Beta (1,2727), Beta Prima (2,5455)",
+          "dimensions": "Nave central y crucero 67 m × 26 m (proporción 2,5769, error 1,23% para Beta Prima); ábside 13 m × 8 m (proporción 1,625, error 0,52% para Alfa); cuadrado de perímetro 316,8 pies ÷ 14 ≈ 22,6286 (error 2,9%); diámetro del círculo 79,2 pies ÷ 11 ≈ 7,2 (exacto para Beta)",
+          "multiples": "Nave (67 ÷ 14 ≈ 4,7857; 26 ÷ 5,5 ≈ 4,7273); ábside (13 ÷ 14 ≈ 0,9286; 8 ÷ 8,66 ≈ 0,9238); 316,8 ÷ 14 ≈ 22,6286; 79,2 ÷ 11 ≈ 7,2"
+        }
+      ]
+    }
+  ]
+}
