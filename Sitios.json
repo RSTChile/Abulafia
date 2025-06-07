@@ -454,7 +454,10 @@
           "location": "Tarapacá",
           "country": "Chile",
           "coordinates_dms": "19°56'56.67\"S 69°38'1.19\"O",
-          "proportions": "Beta (1,2727), Alfa Prima}
+          "proportions": "Beta (1,2727), Alfa Prima (3,2333)",
+          "dimensions": "Cabeza 11,65 m × 9,39 m (proporción 1,24, error 2,6% para Beta); Cuerpo 32,65 m × 10,11 m (proporción 3,23, error 0,1% para Alfa Prima)",
+          "multiples": "Cabeza (11,65 ÷ 14 ≈ 0,8321; 9,39 ÷ 11 ≈ 0,8536); Cuerpo (32,65 ÷ 14 ≈ 2,3321; 10,11 ÷ 4,33 ≈ 2,3349)"
+        }
       ]
     },
     {
